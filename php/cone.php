@@ -2,8 +2,8 @@
 
 $host = "localhost";
 $usuario = "root";
-$clave = "Kevin1519Sti@";
-$bd = "prueba";
+$clave = "";
+$bd = "dbcubillos";
 
 $cone = mysqli_connect($host, $usuario, $clave, $bd);
 if (!$cone) {
@@ -13,4 +13,3 @@ if (!$cone) {
 echo "Connected successfully";
     
 ?>
-
