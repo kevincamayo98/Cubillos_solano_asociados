@@ -1,6 +1,5 @@
-
 <?php
-        /*require_once  BASE_DIR  '/php/cone.php';*/
+        /require_once  BASE_DIR  '/php/cone.php';/
    
 
 ?>
